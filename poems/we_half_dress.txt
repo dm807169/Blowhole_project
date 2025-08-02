@@ -1,0 +1,17 @@
+title: We half dress for war
+year: 2016
+author: David Merritt
+version: 3.3
+format: A3 foldout
+collection: Sleep Uphill + Bunkerland
+Availability: Current catalog
+audio: 04_halfdress.mp3
+audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
+audio_type: live, mp3 stereo off desk
+tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
+---
+<poem>
+
+</poem_ends>
+<footer>
+</footer>
