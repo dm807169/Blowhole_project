@@ -1,7 +1,7 @@
 title: you sleep uphill
-year: 2016 - 2025
+year: 2015 - 2025
 author: David Merritt
-version: 2.3
+version: 2.1
 format: A3 foldout
 collection: You Sleep Uphill
 Availability: Current catalog
@@ -11,7 +11,35 @@ audio_type: live, mp3 stereo off desk
 tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
 ---
 <poem>
-
+you sleep uphill
+I
+scared, the light switches glow 
+in the darkness above your head; 
+the air is high summer, opiated, 
+rainstorm, thunder, humid damp;
+you are uncomfortable and
+one leg refuses to function and
+strange pains appear in new parts 
+of your old and tired body.  <p>
+II
+at night the giant moths fling
+themselves against the
+caravan windows, drawn
+by a solo, solar light;
+you read and you wriggle
+you toss and you turn. <p>
+III
+by day you wear bright 
+red earphones and laugh.
+you handle three digital
+devices simultaneously;
+you click and you point, 
+you click and you point,
+at times pleased, 
+at times pouting,
+at times mostly hidden.
 </poem_ends>
 <footer>
+written 29/12/15 / version 2.1 / gnu - copyleft / landroverfarm press 2025 / 
+</footer>
 </footer>
