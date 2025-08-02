@@ -1,5 +1,5 @@
 title: machine shop
-year: 2009 - 2025
+year: 2007 - 2025
 author: David Merritt
 version: 2.6
 format: A3 foldout
@@ -50,4 +50,5 @@ the misplaced welds and
 burning molten metal droplets
 </poem_ends>
 <footer>
+written 2007 / version 2.6 / gnu - copyleft / david merritt / pastoral collection / landroverfarm press 2025
 </footer>
