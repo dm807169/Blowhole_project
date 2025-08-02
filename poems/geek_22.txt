@@ -1,0 +1,17 @@
+title: geek prayer 22
+year: 2008 - 2025
+author: David Merritt
+version: 3.7
+format: A3 foldout
+collection: Mixture of Wishes
+Availability: Current catalog
+audio: 08_geekprayer.mp3
+audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
+audio_type: live, mp3 stereo off desk
+tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
+---
+<poem>
+
+</poem_ends>
+<footer>
+</footer>

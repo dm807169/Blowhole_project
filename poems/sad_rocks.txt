@@ -1,0 +1,17 @@
+title: sad rocks
+year: 2016 - 2025
+author: David Merritt
+version: 2.2
+format: A3 foldout
+collection: Sleep Uphill 
+Availability: Current catalog
+audio: 06_sadrocks.mp3
+audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
+audio_type: live, mp3 stereo off desk
+tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
+---
+<poem>
+
+</poem_ends>
+<footer>
+</footer>

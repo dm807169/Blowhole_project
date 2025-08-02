@@ -1,0 +1,17 @@
+title: tepid pool
+year: 2016 - 2025
+author: David Merritt
+version: 2.6
+format: A3 foldout
+collection: Mixture of Wishes
+Availability: Current catalog
+audio: 07_tepidpool.mp3
+audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
+audio_type: live, mp3 stereo off desk
+tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
+---
+<poem>
+
+</poem_ends>
+<footer>
+</footer>
