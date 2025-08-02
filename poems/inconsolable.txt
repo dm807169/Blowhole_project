@@ -1,9 +1,9 @@
 title: inconsolable
-year: 2016 - 2025
+year: 2005 - 2025
 author: David Merritt
-version: 2.3
+version: 2.5
 format: A3 foldout
-collection: You Sleep Uphill
+collection:  Mixture of wishes + You Sleep Uphill
 Availability: Current catalog
 audio: 10_inconsolable.mp3
 audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
@@ -11,7 +11,42 @@ audio_type: live, mp3 stereo off desk
 tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
 ---
 <poem>
-
+It has been a great day, full
+of achievement and love, things
+getting done - everything working out fine. <p>
+You shop for food, buy second hand windows, 
+a door, some seeds, nails, a tape measure, 
+a new element for the stove. <p>
+The kids have a ball. You buy them fish
+and chips for lunch, an endless supply
+of lollies, potato chips, milk shakes all 
+afternoon. They play happily in the park,
+you push them on the swings, help the little 
+one up and down on the jungle gym,
+let them jump all over you for ages.<P>
+The car drives wonderfully, like a greased pig. 
+It uses a lot of gas but you dont mind because 
+there is no sign of the radiator overheating 
+on the hills. You fly.
+As dusk falls you head home.
+A full moon pops up over a hill around a corner. 
+there is little traffic. The surf on the shore is 
+hypnotic, its a warm spring night and the car smells 
+of salt air and vinegar and orange peel.
+You stop at a deserted beach and quickly collect a 
+heap of dry driftwood. You light a fire, fry sausages 
+and eggs, smother them in tomato sauce, slap them 
+between slices of white bread. They taste the best.
+You hold hands happy, stupidly invincible. <p>
+Later, you are back in the car driving,
+the kids stretch out, you sing song after song 
+in beautiful harmony, they quietly fall asleep.
+You take little sips of fine whiskey,
+smoke a small pipe of good dak. <p>
+up the road you pull over next to a 
+flowering pohutukawa tree and 
+there your mate takes a mimi in the shadow of the moon.
 </poem_ends>
 <footer>
+written 2005 / version 2.5 / gnu - copyleft / landroverfarm press 2025
 </footer>
