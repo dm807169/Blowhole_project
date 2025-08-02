@@ -1,0 +1,17 @@
+title: good stuff
+year: 2016 - 2025
+author: David Merritt
+version: 2.1
+format: A3 foldout
+collection: Sleep Uphill + Bunnkerland
+Availability: Current catalog
+audio: 06goodstuff.mp3
+audio_source: Taiko Festival, Punakaiki, 2022, With J.Francis on viola.
+audio_type: live, mp3 stereo off desk
+tags: [gothic, domestic, surveillance, irony, new-zealand, misery, melancholy, empathy]
+---
+<poem>
+
+</poem_ends>
+<footer>
+</footer>
