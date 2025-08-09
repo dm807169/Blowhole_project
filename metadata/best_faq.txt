@@ -87,15 +87,17 @@ A Poetry Brick is a curated collection of 23-35 A3 foldouts, bound with twine or
 - Documentation of the distribution pipeline
 
 ### The Off-Grid Distribution Pipeline
-My work follows a five-stage distribution model that operates entirely outside the NZ Literary Blob:
+My work follows a seven-stage distribution model that operates entirely outside the NZ Literary Blob:
 
-1. **Crate Poet**: I assemble poems on street benches using my Printer RAID system
+1. **Crate Poet**: I assemble poems on street benches.
 2. **Street**: Poems distributed directly to readers on Cuba Mall, K Road, etc.
-3. **Zine Fair**: Shared at festivals like Whanganui or Motueka
-4. **Fencepost**: Readers pass poems along informally
-5. **Unknown**: Poems find their way into unexpected places and hands
+3. **Zine Fair**: Shared at festivals like Auckland, Hamilon, Wellington, PN, Whanganui etc.
+4. **Retail**: Some books are sold ouside the "bookshop" system in design stores.
+5. **Markets**: Saturday and Sunday up and down the country
+6. **Fencepost**: Readers pass poems along informally
+7. **Unknown**: Poems find their way into unexpected places and hands as gifts
 
-This pipeline creates what Raymond calls "a self-correcting community"—where poetry circulates organically through human networks rather than corporate channels.
+This pipeline creates what Raymond calls "a self-correcting community" —where poetry circulates organically through human networks rather than corporate channels.
 
 ### Curator Notes
 Each Poetry Brick includes clear instructions for those who host them:
@@ -103,7 +105,7 @@ Each Poetry Brick includes clear instructions for those who host them:
 
 This isn't just instructions—it's an invitation to participate in the poetry bazaar.
 
-## THE SEVEN COLLECTIONS
+## THE NINE COLLECTIONS
 
 My work is organized into nine thematic collections, each with its own character:
 
@@ -136,7 +138,7 @@ Unlike traditional publishing where value comes from scarcity, my model creates 
 ## THE NZ LITERARY BLOB
 
 ### The Blob Defined
-When I refer to "the Blob," I'm describing a specific ecosystem—a network of approximately 58 NGOs and government departments centered in Wellington that controls access to publishing, funding, and recognition in New Zealand.
+When I refer to "the Blob," I'm describing a specific ecosystem—a network of approximately 58 NGOs and government departments centered mostly in Wellington that controls access to publishing, funding, and recognition in New Zealand.
 
 ### The Blob's Structure
 This ecosystem operates as a three-tiered structure:
@@ -161,7 +163,7 @@ This ecosystem operates as a three-tiered structure:
 ### How the Blob Operates
 The Blob functions as what's been called "a conveyor belt running very efficiently from the creative writing courses to the academic presses to the literary festivals to the residencies and awards." It's "like the Borg, assimilating what it can into a bland, chardonnay-swilling middle, run by well meaning people that have no idea really."
 
-Most critically, the Blob is sustained by "middle people"—administrators, literary advisors, festival organizers, and academic gatekeepers—who "wield considerable influence over the allocation of resources, opportunities, and recognition." These "well paid 'professional' positions with secure tenure" maintain the system while poets receive minimal compensation for their work.
+Most critically, the Blob is sustained by "middle people" — administrators, literary advisors, festival organizers, and academic gatekeepers—who "wield considerable influence over the allocation of resources, opportunities, and recognition." These "well paid 'professional' positions with secure tenure" maintain the system while poets receive minimal compensation for their work.
 
 ### Why the Blob Matters
 Understanding the Blob isn't just criticism—it's strategic clarity. It explains why:
