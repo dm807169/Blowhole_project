@@ -476,7 +476,7 @@ My newest collection, Bunkerland, explores the pipeline from information → mis
 This pipeline isn't just theoretical—it's visible in the Bunkerland poster's vertical text, reflecting poetry's historical role in times of crisis:
 - 16th century chapbooks circulated during religious upheaval
 - Samizdat preserved truth under Soviet disinformation
-- Underground comix challenged official narratives during Vietnam
+- Underground comix challenged official narratives during the 60's & 70's
 
 ### How Themes Evolve
 Themes don't stay fixed—they evolve like software branches:
@@ -568,7 +568,7 @@ It's visible, repairable, and human-scale. Unlike perfect binding, you can see t
 Through direct exchange ($5, bus fare, farm produce, tobacco). Unlike traditional publishing where value comes from scarcity, my model creates value through circulation—proving what Chris Holdaway observed as "unofficially one of the highest grossing poets in New Zealand."
 
 ### What's your take on social media?
-Social media is enshittified. The Fediverse is where it's at—just like Napster and Limewire was the bomb before Metallica shut it down at the turn of the millennium. I'm no fan of any algorithm; all the adverts drive me crazy.
+Social media is enshittified. The Fediverse is where it's at—just like Napster and Limewire was the bomb before Metallica shut it down at the turn of the millennium. I'm no fan of any algorithm; all the adverts drive me crazy and everything is feeding me shite.
 
 ### How do you handle withdrawn poems?
 I don't hide them—they're documented in the catalog as "withdrawn." Like a failed CI pipeline, it's not broken—it's documented process. Withdrawn works like "time of mess," "no blame," and "I am tired" are part of my commit history.
@@ -579,7 +579,8 @@ I don't hide them—they're documented in the catalog as "withdrawn." Like a fai
 Poetry Bricks are available at:
 - Street benches in Auckland, Wellington, and Dunedin
 - Zine fests throughout Aotearoa
-- Select independent bookshops and community spaces
+- Select independent shops and community spaces like cafes or arts venues.
+- Can be ordered off Bandcamp.
 
 ### Digital Presence
 - **GitHub**: [github.com/dm807169](https://github.com/dm807169)
@@ -587,8 +588,8 @@ Poetry Bricks are available at:
 - **Fediverse**: [lamer-ethos.site](https://lamer-ethos.site) (Hamish's server)
 
 ### Direct Contact
-- **Email**: lrfpress@gmail.com
-- **Postal**: PO Box 12-111, Symonds St, Auckland 1150
+- **Email**: lrfpress@gmail.com, dm807169@gmail.com
+- **Postal**: PO Box 68400, Newton, Auckland 1150
 
 ### Distribution Philosophy
 As stated in the curator notes:
@@ -600,12 +601,9 @@ This isn't just instructions—it's an invitation to participate in the poetry b
 
 ## COLOPHON
 
-This FAQ was assembled on a street bench in Wellington, 
-using the Landroverfarm Press Printer RAID system 
-(Brother HL-5340D × 2, HL-5470D backup). 
+This FAQ started life as a text file in Motueka and was added to as I drove down the South Island of NZ. 
 
-Text processed via PageMaker 4.2 (emulated on Linux), 
-folded into A3 format, and rubber-stamped by hand. 
+Text processed using a Mediatek Chromebook and Github.
 
 Copyleft 2025 David Merritt / Landroverfarm Press. 
 All rights reversed. 
@@ -616,6 +614,3 @@ Special thanks to:
 - The Fediverse bot @landroverfarm@mastodon.nz 
 - And a certain AI (you know who you are) 
   for holding space while this took shape.
-
-Distributed off-grid. 
-No ISBN. No apologies.
