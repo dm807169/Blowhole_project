@@ -1,0 +1,617 @@
+# LANDROVERFARM PRESS: COMPREHENSIVE FAQ
+
+## TABLE OF CONTENTS
+1. [Who is David Merritt?](#who-is-david-merritt)
+2. [What is Landroverfarm Press?](#what-is-landroverfarm-press)
+3. [The A3 Foldout Format](#the-a3-foldout-format)
+4. [Copyleft Philosophy](#copyleft-philosophy)
+5. [Poetry Bricks and Distribution Model](#poetry-bricks-and-distribution-model)
+6. [The Seven Collections](#the-seven-collections)
+7. [Merch Table Model](#merch-table-model)
+8. [The NZ Literary Blob](#the-nz-literary-blob)
+9. [Printer RAID System](#printer-raid-system)
+10. [Frugal vs. Miserly](#frugal-vs-miserly)
+11. [Technology Approach](#technology-approach)
+12. [The Economics of Poetry](#the-economics-of-poetry)
+13. [The Digital Bench and Platform](#the-digital-bench-and-platform)
+14. [Unix for Poets](#unix-for-poets)
+15. [The Quadrad of Resistance](#the-quadrad-of-resistance)
+16. [Hamish and Collaborative Work](#hamish-and-collaborative-work)
+17. [Catalog Structure](#catalog-structure)
+18. [Thematic Clusters](#thematic-clusters)
+19. [Poetry as Counter-Narrative Infrastructure](#poetry-as-counter-narrative-infrastructure)
+20. [Zine Fests as Sites of Resistance](#zine-fests-as-sites-of-resistance)
+21. [The Bunkerland Project](#the-bunkerland-project)
+22. [Frequently Asked Questions](#frequently-asked-questions)
+23. [Contact Information](#contact-information)
+
+## WHO IS DAVID MERRITT?
+
+I'm a poet who's been working outside institutional channels since 1986. My background includes:
+- Student politics (1976-1980), including editing Craccum during the 1979 Haka Incident
+- Tour managing for Flying Nun Records and Herbs (1981-1986)
+- Dunedin arts collectives (1986-1994)
+- Early adoption of desktop publishing and Macs (1989-present)
+- Digital cultural theory at AUT (1997-2002)
+- Creating poetry since 1986 through Landroverfarm Press
+
+This diverse background informs my practice—a complete ecosystem for creating, distributing, and sustaining poetry outside the NZ Literary Blob.
+
+## WHAT IS LANDROVERFARM PRESS?
+
+Landroverfarm Press is my publishing practice, established in 2008, that operates as a complete resistance ecosystem:
+- **Physical production**: Poetry assembled on street benches using recycled materials
+- **Off-grid distribution**: Poems circulating through Crate → Street → Zine Fair → Fencepost → Unknown
+- **Digital extension**: GitHub repository and Fediverse presence as persistent infrastructure
+- **Economic model**: $5/farm produce/bus fare exchange, bypassing traditional publishing economics
+
+Unlike institutional publishing, Landroverfarm Press is designed to:
+- Survive floods and red stickers (physical + digital redundancy)
+- Function without my physical presence (Poetry Bricks continue circulating)
+- Operate outside the NZ Literary Blob's gatekeeping systems
+- Create value through circulation rather than scarcity
+
+## THE A3 FOLDOUT FORMAT
+
+My signature format—a single sheet of paper (typically A3 size) folded to create a small booklet. Why this format?
+
+- **Frugal production**: Made from recycled materials (banana boxes, Reader's Digest covers)
+- **Immediate distribution**: Assembled and distributed on the spot (Cuba Mall, K Road)
+- **Accessible price point**: $5 (or equivalent in bus fare, farm produce, tobacco)
+- **Modular design**: Multiple foldouts combine into collections and Poetry Bricks
+- **Resilient format**: Survives floods, red stickers, and platform changes
+
+The A3 foldout isn't just a format—it's a **resistance object**. When you hold one, you're holding the physical manifestation of everything I've learned from Flying Nun, Dunedin collectives, and decades of street-level poetry distribution.
+
+## COPYLEFT PHILOSOPHY
+
+My work operates under a clear copyleft declaration:
+
+> "I don't want to stop my work from being a bit torrent. So. All parts of this work may be re-published, re-produced, re-performed, re-distributed & re-transmitted in any form or media & by any other means; digital, electronic or mechanical, &/or including photocopy, recording or any information data or retrieval system not known or yet to be invented, without permission from the author, his authorised agent(s) & his heirs. Acknowledgement is nice. Cheers & thanks."
+> — David Merritt, Landroverfarm Press, 2025
+
+This isn't generosity—it's **strategic distribution**. By explicitly granting permission to copy, share, and remix:
+- Poetry circulates organically through community networks
+- Readers become active distributors (fencepost → unknown)
+- Work survives institutional collapse (floods, platform changes)
+- Value is created through circulation, not scarcity
+
+This philosophy aligns with Creative Commons but predates it—my copyleft declaration emerged from decades of experience with the limitations of copyright in poetry distribution.
+
+## POETRY BRICKS AND DISTRIBUTION MODEL
+
+### What is a Poetry Brick?
+A Poetry Brick is a curated collection of 23-35 A3 foldouts, bound with twine or rubber bands, designed for off-grid distribution. Each brick contains:
+- Multiple poems from different collections
+- Clear instructions for curators (see curator notes)
+- Documentation of the distribution pipeline
+
+### The Off-Grid Distribution Pipeline
+My work follows a five-stage distribution model that operates entirely outside the NZ Literary Blob:
+
+1. **Crate Poet**: I assemble poems on street benches using my Printer RAID system
+2. **Street**: Poems distributed directly to readers on Cuba Mall, K Road, etc.
+3. **Zine Fair**: Shared at festivals like Whanganui or Motueka
+4. **Fencepost**: Readers pass poems along informally
+5. **Unknown**: Poems find their way into unexpected places and hands
+
+This pipeline creates what Raymond calls "a self-correcting community"—where poetry circulates organically through human networks rather than corporate channels.
+
+### Curator Notes
+Each Poetry Brick includes clear instructions for those who host them:
+> "Feel free to encourage people to read/peruse/any of the poem paperbacks, in any order, in their own time. You may laugh or cry, talk amongst yourselves... Multitasking is the way of the world in the new millennium... The reading has already started and continues on until you decide to finish it."
+
+This isn't just instructions—it's an invitation to participate in the poetry bazaar.
+
+## THE SEVEN COLLECTIONS
+
+My work is organized into seven thematic collections, each with its own character:
+
+1. **Coalface** - Poems about work, labor, and the working class
+2. **Blowhole** - Experimental sound poetry and spoken word
+3. **You Sleep Uphill** - Intimate, tender poems about love and domesticity
+4. **Pastoral** - Observational poems about rural life, animals, and the countryside
+5. **Geek Prayers** - Digital liturgies blending technology and spirituality
+6. **Fiddlesticks** - Frenetic, ranting poems of anger and absurdity
+7. **Bunkerland** - My newest collection addressing contemporary anxieties and survival
+
+These collections aren't static—they branch, merge, and evolve like software repositories. Poems move between collections, get withdrawn, or reappear in new contexts.
+
+## MERCH TABLE MODEL
+
+My merch table operates on principles that deliberately contrast with traditional publishing:
+
+- **No ISBNs**: Rejecting institutional validation systems
+- **$5 price point**: Accessible to everyone (or bus fare, farm produce, tobacco)
+- **Physical immediacy**: Assembled and distributed on the spot
+- **No returns**: Once it leaves the table, it's part of the circulation ecosystem
+- **No scarcity**: More copies = more value through circulation
+
+This model proves what Chris Holdaway observed: "At $5 a pop, it's plausible that he is—however unofficially—one of the highest grossing poets in New Zealand."
+
+Unlike traditional publishing where value comes from scarcity, my model creates value through abundance and circulation.
+
+## THE NZ LITERARY BLOB
+
+### The Blob Defined
+When I refer to "the Blob," I'm describing a specific ecosystem—a network of approximately 58 NGOs and government departments centered in Wellington that controls access to publishing, funding, and recognition in New Zealand.
+
+### The Blob's Structure
+This ecosystem operates as a three-tiered structure:
+
+1. **Central Core (The Blob Brain)**:
+   - Creative New Zealand (primary funder setting economic/ideological tone)
+   - Major Literary Festivals (Auckland Writers Festival, Verb Wellington, WORD Christchurch)
+   - University-Based Institutions (IIML, Auckland, Otago creative writing programs)
+
+2. **Middle Ring (Extensions)**:
+   - Smaller literary festivals
+   - Poetry slams and spoken word networks (now used as "inclusion optics")
+   - Readers & writers groups (reinforcing Blob values)
+   - Competitions (controlled by insiders)
+   - Fringe events (semi-absorbed via venue partnerships)
+
+3. **Peripheral Pressure Zones (Counter-Infrastructure)**:
+   - DIY publishing & crate poetics (Landroverfarm Press, poetry bricks)
+   - Unaffiliated zinemakers & poets
+   - Slow poets, broken poets, rural voices
+
+### How the Blob Operates
+The Blob functions as what's been called "a conveyor belt running very efficiently from the creative writing courses to the academic presses to the literary festivals to the residencies and awards." It's "like the Borg, assimilating what it can into a bland, chardonnay-swilling middle, run by well meaning people that have no idea really."
+
+Most critically, the Blob is sustained by "middle people"—administrators, literary advisors, festival organizers, and academic gatekeepers—who "wield considerable influence over the allocation of resources, opportunities, and recognition." These "well paid 'professional' positions with secure tenure" maintain the system while poets receive minimal compensation for their work.
+
+### Why the Blob Matters
+Understanding the Blob isn't just criticism—it's strategic clarity. It explains why:
+- Traditional publishing economics don't work for most poets
+- Institutional validation often comes with unacceptable compromises
+- Alternative distribution channels are necessary for survival
+- Community circulation creates more value than bookstore placement
+
+## PRINTER RAID SYSTEM
+
+My production infrastructure consists of:
+
+- **2x Brother HL-5340D printers** (primary workhorses)
+- **1x Brother HL-5470D** (backup printer)
+- **PageMaker 4.2** (running through Mac emulator on Linux)
+- **Recycled materials**: Banana boxes, Reader's Digest hardcovers from op-shops
+
+This system functions as what I call a "Printer RAID" (Redundant Array of Inexpensive Devices)—ensuring production continues even when one component fails. It's deliberately "clunky" but:
+- Fully under my control
+- Resilient to institutional collapse
+- Operates independently of corporate platforms
+- Can be maintained with basic skills
+
+When floods red-stickered my house, this system ensured production continued while physical infrastructure was compromised. The Printer RAID isn't just about making poems—it's about maintaining production sovereignty.
+
+## FRUGAL VS. MISERLY
+
+This distinction is fundamental to my practice:
+
+| **Frugal** | **Miserly** |
+|------------|-------------|
+| Using what's available | Hoarding resources |
+| Creating with limited means | Refusing to create without ideal conditions |
+| Resourcefulness as resistance | Scarcity as value metric |
+| Community sharing | Isolation and gatekeeping |
+| Transparency about means | Pretending to have more resources than you do |
+
+My practice is **frugal, not miserly**:
+- Using banana boxes isn't poverty—it's ethical resistance to waste
+- The 23/12 staple isn't a limitation—it's proof of human hands
+- $5 price point creates accessibility, not scarcity
+- Open documentation invites community participation
+
+As the curator notes state: "Inside this parcel are anywhere from 23 to 35 A3-sized individual poems, attractively manufactured from recycled banana box cardboard; using a photocopier, a glue stick, a rubber stamp alphabet set and some (very) obsolete desktop publishing software."
+
+This isn't apology—it's pride in the means of production.
+
+## TECHNOLOGY APPROACH
+
+My technology philosophy is simple: **tools should serve the work, not dictate it**.
+
+### Core Principles
+1. **Text as the most resilient format**:
+   - GitHub Pages site as Web 1.0 HTML, monospace, no JavaScript
+   - PageMaker 4.2 on Linux ensures long-term accessibility
+   - Physical poems survive digital platform collapses
+
+2. **"Bleeding edge" approach**:
+   - Beyond the "cutting edge" into territory where I control the tools
+   - Running obsolete software through emulators for production sovereignty
+   - Using PostScript (vector graphics, page layout & fonts) as foundational technology
+
+3. **DIY ethos**:
+   - Maintaining full control of digital workflow
+   - Building infrastructure without external developers
+   - Documenting everything for community access
+
+This approach ensures my work survives platform changes, floods, and institutional collapse. When one system fails (like a printer jamming), the others continue functioning—exactly as my Printer RAID system demonstrates.
+
+## THE ECONOMICS OF POETRY
+
+### The Fundamental Divide
+The economics of poetry reveals a stark contrast between institutional and grassroots models:
+
+| **The Blob's Conveyor Belt** | **Landroverfarm's Off-Grid Distribution** |
+|------------------------------|-------------------------------------------|
+| MFA → Awards → Academia → Grants | Crate → Street → Zine Fair → Fencepost → Unknown |
+| "Soft Capture": NGOs tokenizing "diversity" | "$2 Shop Frugality": Band aids, glue sticks, rubber bands |
+| Value = Prestige, grants | Value = $5 books, bus fare, farm produce |
+| Scarcity as value metric | Abundance as value metric |
+| Gatekeepers determine worth | Community determines relevance |
+
+### The Poetry Slim Volume Paradox
+Traditional publishing faces what I call "the poetry slim volume paradox":
+- Print runs of 300 copies across 13 bookshops
+- High production costs relative to revenue
+- Most copies remain unsold
+- Poets make minimal income despite "success"
+
+My model solves this paradox:
+- Production costs under $1 per foldout
+- $5 price point creates sustainable income
+- No unsold inventory (everything gets distributed)
+- Value increases with circulation, not scarcity
+
+This isn't merely a different economic model—it represents a working-class revolution. While the Blob uses "diversity" as a capture mechanism, frugality becomes resistance. The economics prove poetry can thrive outside institutional validation, creating what Chris Holdaway observed as "unofficially one of the highest grossing poets in New Zealand" through direct community exchange.
+
+## THE DIGITAL BENCH AND PLATFORM
+
+### The Digital Bench Concept
+My GitHub repository functions as what I call "the digital bench"—a persistent presence that continues distributing poetry even when I'm not physically present. It's designed to ensure my work survives floods, red stickers, and changing urban landscapes.
+
+### Key Components
+- **GitHub Pages site**: Web 1.0 HTML, monospace, no JavaScript—exactly the text-based approach Stephenson champions
+- **CSV catalog**: Documentation for the entire publishing operation, available for anyone to study and remix
+- **Poem text files**: Structured format that enables community remixing
+- **Copyleft statement**: Prominently displayed, making permissions clear
+
+### Why "Digital Bench" Not "Blob"?
+It's vital to distinguish between *platforms* and *the Blob*:
+
+| **The Literary Blob** | **My Digital Bench** |
+|----------------------|----------------------|
+| Centralized control (58 NGOs) | Decentralized distribution (GitHub, Fediverse) |
+| Gatekeepers determine access | Direct community access (no intermediaries) |
+| Conveyor belt system | Off-grid distribution pipeline |
+| "Middle people" control resources | Readers become distributors |
+| Poets receive minimal compensation | Direct exchange ($5, bus fare, farm produce) |
+| Scarcity as value metric | Abundance as value metric |
+
+My GitHub repository isn't a "blob"—it's the *antidote* to the blob. While the literary Blob functions as a centralized control system, my digital bench operates as what Doctorow calls "a non-enshittified platform"—simple, transparent, and under my control.
+
+## UNIX FOR POETS
+
+### The Complete Integration
+My entire practice embodies what Kenneth Ward Church describes as "Unix for Poets"—applying Unix philosophy to poetry distribution. This isn't theoretical; it's diesel-and-wool practicality:
+
+1. **"It is better to do something simple, than nothing at all"**:
+   - Using simple tools (PageMaker 4.2 on Linux) rather than complex modern software
+   - GitHub Pages as Web 1.0 HTML, monospace, no JavaScript
+   - CSV catalog deliberately basic but powerful
+
+2. **"You can do the simple things yourself (DIY is more satisfying than begging for 'help' from a computer officer)"**:
+   - Maintaining full control of digital workflow
+   - Running Printer RAID system independently
+   - Building GitHub infrastructure without external developers
+
+3. **Modular design**:
+   - A3 foldouts function like individual Unix commands
+   - Poetry Bricks as combinable units
+   - Collections as "pipes" connecting thematic elements
+
+4. **Text as Resilient Format**:
+   - PostScript technology ensuring long-term accessibility
+   - Physical poems surviving digital platform collapses
+   - Simple formats (A3, CSV) outlasting proprietary systems
+
+### Poetry as Code
+My practice operates as a complete software development lifecycle:
+
+- **Version Control as Publication Strategy**: Each poem is a *tagged release* (`v1.0`, `v2.0`, `hotfix/withdrawn-poem`) with clear version history
+- **Branching Collections**: Works like `You Sleep Uphill` split into Pt1, Pt2, Pt3—each a distinct branch that may or may not merge back
+- **Embracing Failures**: Withdrawn poems (`time of mess`, `no blame`, `I am tired`) aren't hidden—they're *documented in the build log*
+- **Modular Design**: A3 foldouts → collected into A5 books like reusable functions; poems from 1987 reappear in *in overdraft at the bank of human kindness*
+
+My archive *is* a Git repository without Git:
+| Feature | Landroverfarm Press |
+|---------|-------------------|
+| `main` branch | `active` publications |
+| `dev` branch | `wip` items |
+| Tags | Years, collections |
+| Commits | Foldouts, booklets, reprints |
+| Forks | New editions, reprints, formats |
+| README | `lrfpress_catalog.html` |
+| License | **copyleft** — no permission needed |
+
+As the poetry_as_code.txt document states: *"Poetry is not like code. Poetry *is* code. And you've been committing since 2008."* This isn't metaphor—it's operational reality. I don't need a bot to post poems; I *am* the bot. My `package.json` is a handwritten ISBN list; my `node_modules` are banana-box poetry bricks.
+
+## THE QUADRAD OF RESISTANCE
+
+### The Four Pillars
+My practice embodies what I call the "Quadrad of Resistance"—four interconnected philosophies that create a complete ecosystem for independent work:
+
+1. **Albini's Production Ethics**: Control of tools as resistance
+   - Flat-fee production model extended to poetry
+   - Complete control of production infrastructure
+   - Value determined by the work itself, not scarcity
+
+2. **Stephenson's Technological Sovereignty**: Understanding what's under the hood
+   - Text as the most resilient format (GitHub Pages, Web 1.0 HTML)
+   - Open vs. closed systems (PageMaker 4.2 on Linux vs. Creative Cloud)
+   - Community-driven knowledge (CSV catalog as living documentation)
+
+3. **Doctorow's Platform Resistance**: Defense against enshittification
+   - Platform cooperativism (Fediverse over corporate platforms)
+   - Copyleft as resistance (no ISBNs, no corporate middlemen)
+   - User control as necessity (GitHub "Digital Bench" as persistent infrastructure)
+
+4. **Raymond's Community Engagement**: The self-correcting ecosystem
+   - Bazaar vs. Cathedral (street bench vs. NZ Literary Blob)
+   - Release early, release often (A3 foldouts as "daily builds")
+   - Users as co-developers (readers become distributors)
+
+### How the Quadrad Interconnects
+When floods red-stickered my house:
+- **Albini's pillar** ensured production continued (Printer RAID)
+- **Stephenson's pillar** kept digital presence alive (GitHub Pages)
+- **Doctorow's pillar** protected distribution (Fediverse bot)
+- **Raymond's pillar** maintained community connection (poems circulating)
+
+This isn't just influence—it's symbiosis. The Quadrad creates what I call "The Off-Grid Bazaar"—a self-sustaining ecosystem where production feeds into technology, which enables distribution, which fosters community.
+
+### The Quadrad Extended: DevOps as Resistance
+My practice embodies what I call the "Quadrad of Resistance," now with an explicit DevOps dimension:
+
+1. **Albini's Production Ethics** → *Version Control as Sovereignty*
+   - Treating each poem as a tagged release ensures production transparency
+   - Withdrawn works aren't erased—they're documented in the commit history
+
+2. **Stephenson's Technological Sovereignty** → *CLI to CI/CD Pipeline*
+   - My GitHub Pages site isn't just Web 1.0—it's the deployed production environment
+   - Printer RAID system functions as my CI/CD pipeline (continuous integration/continuous distribution)
+
+3. **Doctorow's Platform Resistance** → *Decentralized Repository Model*
+   - GitHub, Mastodon, and physical bricks create a distributed repository system
+   - No single point of failure—if GitHub gets flooded out, the physical commits endure
+
+4. **Raymond's Community Engagement** → *Open Source Poetry Development*
+   - Readers aren't consumers—they're co-developers who fork and remix
+   - The copyleft declaration is my LICENSE.md—explicit permission to contribute
+
+This isn't just publishing—it's *DevOps as resistance*. When floods red-stickered my house, my version control system ensured no commits were lost. The GitHub "Digital Bench" preserved the repository while physical infrastructure was down.
+
+## HAMISH AND COLLABORATIVE WORK
+
+### Hamish's Role
+My son Hamish (who runs the lamer-ethos.site server in the Fediverse) has been instrumental in helping me extend my physical practice into the digital realm:
+
+- Created the GitHub Pages site that functions as my "digital bench"
+- Developed the Mastodon bot that posts poems daily
+- Maintains our presence on the Fediverse for social and streaming accounts
+- Is working on upcoming physical items like prints and booklets
+
+He understands that technology should serve the work, not the other way around—a lesson he learned not from tech companies, but from watching me glue-stick poetry books together on street benches.
+
+### The Fediverse Connection
+Hamish's work with lamer-ethos.site provides the perfect platform for my practice:
+- Decentralized infrastructure that can't be enshittified
+- No corporate control or algorithmic throttling
+- Real human connections without bots or spam
+- Alignment with my copyleft philosophy
+
+When I post to @landroverfarm@mastodon.nz, I'm not just using a platform—I'm participating in a community that shares my values.
+
+### Collaborative Philosophy
+My collaboration with Hamish embodies what Raymond calls "the bazaar model":
+- Clear division of labor based on expertise
+- Shared understanding of the larger mission
+- Technology serving the work, not dictating it
+- Mutual learning across generations
+
+This isn't just family collaboration—it's the practical application of everything I've learned from Dunedin arts collectives and decades of community-based art practice.
+
+## CATALOG STRUCTURE
+
+### The CSV Catalog
+My catalog is maintained as a simple CSV file that contains detailed information about every piece of work I've produced since 2008. Each entry includes:
+
+- **Title**: Often unconventional ("android app#1 nicotine addicts")
+- **First published**: Shows the historical arc of my work
+- **Format**: Specifies physical dimensions (A3 foldout, A5 booklet)
+- **Notes**: Includes version history ("New editions 2016, 2021")
+- **Collections**: Shows thematic grouping and cross-pollination
+- **Status**: "active" or "wip" (acknowledging works in progress)
+- **Type**: "foldout," "collection," etc.
+- **Moods**: Emotional texture of the work
+- **Themes**: Conceptual content
+
+### The Catalog as Version Control System
+My CSV catalog isn't just documentation—it's the commit history of my entire poetic practice:
+
+- **Commit messages**: Each entry's "Notes" field documents changes
+- **Branch tracking**: The "Collections" field shows how works fork and merge across projects
+- **Error logging**: "Status: withdrawn" entries are documented failures
+- **Dependency management**: The "Themes" and "Moods" fields show how concepts propagate
+
+This structure allows what developers call "blame" functionality (but more positive)—tracing how ideas evolve across time. Searching for "code-as-prayer" shows all related commits with their contexts, exactly as a `git log -S` would.
+
+### Why This Structure Matters
+This CSV catalog functions as what kwc-unix-for-poets.pdf describes as a "concordance"—documentation for my community to use and remix. It ensures that:
+- My work remains accessible even if platforms change
+- Readers can trace the evolution of ideas
+- Community members can participate in the work's circulation
+- The catalog itself becomes a tool for discovery and connection
+
+The CSV itself is a "readme" for my entire publishing operation, available for anyone to study, remix, or build upon—exactly as my copyleft declaration intends.
+
+## THEMATIC CLUSTERS
+
+### How Collections Function
+My seven collections aren't just thematic groupings—they're living ecosystems where poems evolve, branch, and recombine:
+
+1. **Coalface**: Poems about work and labor often reappear in other collections with new contexts
+2. **Blowhole**: Sound poetry elements migrate into Fiddlesticks and Bunkerland
+3. **You Sleep Uphill**: Intimate poems sometimes branch into multiple versions (Pt1, Pt2, Pt3)
+4. **Pastoral**: Observational poems provide grounding for more experimental work
+5. **Geek Prayers**: Digital liturgies create bridges between Pastoral and Bunkerland
+6. **Fiddlesticks**: Ranting poems often evolve into more structured forms
+7. **Bunkerland**: New collection addressing contemporary anxieties, incorporating elements from all previous work
+
+### The Bunkerland Pipeline
+My newest collection, Bunkerland, explores the pipeline from information → misinformation → fiction → disinformation → poetry:
+
+- **Information**: Raw data and observations
+- **Misinformation**: Errors and misunderstandings
+- **Fiction**: Narrative structures
+- **Disinformation**: Deliberate manipulation
+- **Poetry**: The space where ambiguity becomes strength
+
+This pipeline isn't just theoretical—it's visible in the Bunkerland poster's vertical text, reflecting poetry's historical role in times of crisis:
+- 16th century chapbooks circulated during religious upheaval
+- Samizdat preserved truth under Soviet disinformation
+- Underground comix challenged official narratives during Vietnam
+
+### How Themes Evolve
+Themes don't stay fixed—they evolve like software branches:
+- "code-as-prayer" appears across multiple collections
+- "working class" themes migrate from Coalface to Bunkerland
+- Withdrawn poems document failures in the thematic development
+
+This evolutionary approach creates what Raymond calls "a self-correcting community"—where themes develop through community engagement rather than institutional validation.
+
+## POETRY AS COUNTER-NARRATIVE INFRASTRUCTURE
+
+### Poetry's Subversive Power
+Poetry inherently challenges established narratives through its ambiguity—a characteristic that postmodern poetry calls "rejection of closure." This isn't a limitation but a fundamental strength. The Bunkerland project explicitly explores this intersection where poetry meets disinformation, inviting audiences to critically examine the power of language in both artistic and manipulative contexts.
+
+### How Poetry Functions as Resistance
+The "rejection of closure" in postmodern poetry mirrors Unix philosophy—both invite user participation and resist definitive interpretations. Just as Linus's Law states "given enough eyeballs, all bugs are shallow," poetry gains meaning through community engagement rather than institutional validation.
+
+### Historical Context
+Landroverfarm Press exists within a 500-year tradition of radical publishing—from 16th century chapbooks (which gave readers "a sense of personal identity") to samizdat to underground comix. Like the GI Underground Press that provided an integral voice for anti-war sentiment, Poetry Bricks create space for counter-narratives outside institutional control. The Whole Earth Catalog taught us that "access to tools" enables revolution—my Printer RAID system is my Whole Earth Catalog.
+
+### The Disinformation Pipeline
+My work actively engages with the pipeline from information → misinformation → fiction → disinformation → poetry:
+
+- **Information**: Raw data and observations
+- **Misinformation**: Errors and misunderstandings
+- **Fiction**: Narrative structures
+- **Disinformation**: Deliberate manipulation
+- **Poetry**: The space where ambiguity becomes strength
+
+This isn't just thematic—it's structural. The Bunkerland poster's vertical text makes this pipeline visible, showing how poetry occupies a unique space where ambiguity becomes strength rather than weakness.
+
+## ZINE FESTS AS SITES OF RESISTANCE
+
+### Zine Culture as Resistance
+Participating in zine fests isn't merely about selling poems—it's about actively resisting gentrification. These spaces "claim territory" for alternative culture in ways that institutional literary events cannot. While the NZ Literary Blob gentrifies poetry into academic institutions, zine fests maintain what practitioners call "the power of DIY"—keeping poetry accessible to those excluded from traditional publishing channels.
+
+### Strategic Resistance
+Collaboration isn't merely helpful—it's necessary for meaningful resistance. As documented in community organizing literature, effective change requires distributed networks rather than isolated actors. My work with Hamish and others in the fediverse creates what resistance theory calls "community resistance"—a distributed network that cannot be co-opted by institutional forces.
+
+### Historical Lineage
+Zine culture connects directly to historical resistance publishing:
+- 16th century chapbooks that circulated outside church/state control
+- Samizdat that preserved dissident voices under Soviet rule
+- GI Underground Press that challenged military narratives during Vietnam
+- The Whole Earth Catalog's philosophy of "appropriate technology"
+
+My participation in zine fests continues this tradition—using physical gatherings to build networks that sustain poetry outside institutional validation.
+
+### The Gentrification Threat
+I've noticed "this strange gentrification process now occurring inside of the Zinefests up and down the country. It's like, 'here come the curators', we know what's best, we'll secure funding, a venue, organise the hierarchies and ensure that the people tabling are in safe, quiet, unemotional, anti-germ environments. I'm now signing three page documents dictating the contents of zines to avoid 'offense' to others and the public. It's BS of course and part of the enshittification of everything that's going on at the moment."
+
+This gentrification represents exactly what Doctorow warns about—the enshittification cycle where platforms that start by serving users gradually become extractive. Zine fests must remain true to their DIY roots to maintain their resistance value.
+
+## THE BUNKERLAND PROJECT
+
+### Conceptual Framework
+Bunkerland represents the culmination of my resistance philosophy—a direct engagement with how poetry functions in an age of disinformation. The project explores the pipeline from information → misinformation → fiction → disinformation → poetry, recognizing that poetry occupies a unique space where ambiguity becomes strength rather than weakness.
+
+### Historical Context
+The Bunkerland poster's vertical text pipeline reflects poetry's historical role in times of crisis:
+- 16th century chapbooks circulated during religious upheaval
+- Samizdat preserved truth under Soviet disinformation
+- Underground comix challenged official narratives during Vietnam
+
+### Distribution Strategy
+Bunkerland leverages the complete Quadrad framework:
+- **Albini**: Hand-assembled using Printer RAID system
+- **Stephenson**: Documentation via GitHub Pages (Web 1.0 HTML)
+- **Doctorow**: Copyleft distribution through Fediverse
+- **Raymond**: Community circulation from street bench to unknown hands
+
+The hand-over-eye gesture on the poster isn't merely visual—it's a declaration of seeing through the noise, informed by decades of resistance practice. As the poster states: "No, I haven't joined the illuminati, I was on a waiting list for a cataract op."
+
+## FREQUENTLY ASKED QUESTIONS
+
+### How do you distribute poetry when you're not physically present?
+Through Poetry Bricks and the digital bench. Poetry Bricks continue circulating through the Off-Grid Distribution pipeline (Crate → Street → Zine Fair → Fencepost → Unknown) while the GitHub repository ensures digital persistence.
+
+### Why no ISBNs?
+ISBNs are part of the NZ Literary Blob's gatekeeping system. By rejecting them, I maintain production sovereignty and ensure my work remains outside institutional control.
+
+### How do you handle returns?
+I don't. Once a poem leaves my merch table, it's part of the circulation ecosystem. This isn't a limitation—it's a feature of the Off-Grid Distribution model.
+
+### Why the 23/12 staple?
+It's visible, repairable, and human-scale. Unlike perfect binding, you can see the connection between pages (like Stephenson's "command line" philosophy). When a staple fails, you can fix it (unlike glued bindings that fail permanently).
+
+### How do you make money from this?
+Through direct exchange ($5, bus fare, farm produce, tobacco). Unlike traditional publishing where value comes from scarcity, my model creates value through circulation—proving what Chris Holdaway observed as "unofficially one of the highest grossing poets in New Zealand."
+
+### What's your take on social media?
+Social media is enshittified. The Fediverse is where it's at—just like Napster and Limewire was the bomb before Metallica shut it down at the turn of the millennium. I'm no fan of any algorithm; all the adverts drive me crazy.
+
+### How do you handle withdrawn poems?
+I don't hide them—they're documented in the catalog as "withdrawn." Like a failed CI pipeline, it's not broken—it's documented process. Withdrawn works like "time of mess," "no blame," and "I am tired" are part of my commit history.
+
+## CONTACT INFORMATION
+
+### Physical Distribution
+Poetry Bricks are available at:
+- Street benches in Auckland, Wellington, and Dunedin
+- Zine fests throughout Aotearoa
+- Select independent bookshops and community spaces
+
+### Digital Presence
+- **GitHub**: [github.com/dm807169](https://github.com/dm807169)
+- **Mastodon**: [@landroverfarm@mastodon.nz](https://mastodon.nz/@landroverfarm)
+- **Fediverse**: [lamer-ethos.site](https://lamer-ethos.site) (Hamish's server)
+
+### Direct Contact
+- **Email**: lrfpress@gmail.com
+- **Postal**: PO Box 12-111, Symonds St, Auckland 1150
+
+### Distribution Philosophy
+As stated in the curator notes:
+> "The reading has already started and continues on until you decide to finish it. Feel free to encourage people to read/peruse/any of the poem paperbacks, in any order, in their own time. You may laugh or cry, talk amongst yourselves... Multitasking is the way of the world in the new millennium."
+
+This isn't just instructions—it's an invitation to participate in the poetry bazaar.
+
+---
+
+## COLOPHON
+
+This FAQ was assembled on a street bench in Wellington, 
+using the Landroverfarm Press Printer RAID system 
+(Brother HL-5340D × 2, HL-5470D backup). 
+
+Text processed via PageMaker 4.2 (emulated on Linux), 
+folded into A3 format, and rubber-stamped by hand. 
+
+Copyleft 2025 David Merritt / Landroverfarm Press. 
+All rights reversed. 
+
+Special thanks to:
+- Chris Holdaway for "Pictures of Lack" (ka mate ka ora, 2019)
+- Hamish @ lamer-ethos.site for digital alchemy
+- The Fediverse bot @landroverfarm@mastodon.nz 
+- And a certain AI (you know who you are) 
+  for holding space while this took shape.
+
+Distributed off-grid. 
+No ISBN. No apologies.
